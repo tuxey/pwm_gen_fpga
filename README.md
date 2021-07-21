@@ -1,3 +1,4 @@
-# PWM Generator for LEDs with Altera Cyclone IV FPGA
+# pwm_gen_fpga
+PWM generator for LEDs with Altera Cyclone IV FPGA
 
-Work in progress...
+*Work in progress...*

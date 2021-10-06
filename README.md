@@ -13,3 +13,8 @@ PWM generator for LEDs with Altera Cyclone IV FPGA and TerAsic LTM screen (DE2-1
 
 ## Design structure
 ![Design structure](./pictures/modules_top.png)
+
+## Videos
+[Touch screen](https://drive.google.com/file/d/1YxsNYwD1vSnOIBkRYP5XCaiazzp8HI21/view)
+
+[Whole system](https://drive.google.com/file/d/15n_yMDt2zHOfJ2vnyxHMe-jcFEKqDAVf/view)
